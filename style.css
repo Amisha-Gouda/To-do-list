@@ -1,0 +1,45 @@
+.container{
+    margin:100px auto;
+    width: 40%;
+    background-color: white;
+    padding: 20px;
+    padding-left: 90px;
+}
+
+h1{
+    text-align: center;
+    margin:50px;
+    font-weight: bold;
+}
+
+body{
+    background-color: lightgray;
+}
+.delete{
+    background-color: red;
+    font-weight: bold;
+    color:white;
+    width: 85px;
+    margin-left: 100px;
+    border-radius: 70%;
+    border: 2px solid black;
+}
+
+#delete-all{
+    background-color: red;
+    color: white;
+}
+
+#add-task{
+    background-color: green;
+    color: white;
+}
+
+td{
+    padding: 12px;
+    
+}
+
+tr{
+    border-bottom: 2px solid black;
+}
